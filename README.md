@@ -92,34 +92,12 @@ At Lumi's core lies a profound truth: technology should disappear into experienc
 - Python and C++ programming knowledge
 - Experience in hardware prototyping
 
-### Steps to Begin
-
-1. Clone the Repository
-   ```bash
-   git clone https://github.com/your-org/lumi.git
-   ```
-2. Set Up Hardware
-   - Assemble the components as per the [Hardware Architecture Guide](#).
-   - Ensure connections are stable and secure.
-3. Install Dependencies
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Flash the Raspberry Pi Pico W
-   ```bash
-   ./flash_firmware.sh
-   ```
-5. Run the Main Application
-   ```bash
-   python main.py
-   ```
-
----
 
 ## Contributing
 
 We welcome contributions from developers, designers, and enthusiasts worldwide. Here’s how you can get involved:
 
+- **Create Issues**
 - **Feature Implementation**: Check the `Features` section in the repository for open tasks.
 - **Bug Fixes**: Browse through the `Issues` tab.
 - **Documentation**: Help refine the README and other documentation files.
