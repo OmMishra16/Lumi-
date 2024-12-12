@@ -1,4 +1,3 @@
-<img width="820" alt="Screenshot 2024-12-12 at 11 18 00 PM" src="https://github.com/user-attachments/assets/2d984676-d65e-417e-99ae-c801cec637bc" />
 
 # Lumi: Magic in Every Touch
 
