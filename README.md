@@ -1,6 +1,4 @@
-# Lumi
-
-# Lumi: Magic in Every Touch
+<img width="820" alt="Screenshot 2024-12-12 at 11 18 00 PM" src="https://github.com/user-attachments/assets/2d984676-d65e-417e-99ae-c801cec637bc" /># Lumi: Magic in Every Touch
 
 ## Introduction
 
@@ -61,10 +59,13 @@ At Lumi's core lies a profound truth: technology should disappear into experienc
 
 ## Hardware Architechture
 
-  
+    
+  <img width="819" alt="Screenshot 2024-12-12 at 11 18 27 PM" src="https://github.com/user-attachments/assets/a1573761-588a-43c4-af5c-51749e125078" />
 
-## Software Architecture 
 
+## Resources Needed 
+
+<img width="722" alt="Screenshot 2024-12-12 at 11 19 28 PM" src="https://github.com/user-attachments/assets/84e3871b-00b2-4fee-a563-fd65705ba40c" />
 
 
 ### AI Layer
@@ -164,9 +165,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For more information, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto\:your-email@example.com)
-- **GitHub**: [Lumi Repository](https://github.com/your-org/lumi)
-- **Discord**: Join our community for discussions and support.
+- **Email**: ommishra162005@gmail.com
+- **GitHub**: [Lumi Repository](https://github.com/ommishra16/Lumi-)
+
 
 ---
 
