@@ -140,15 +140,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## Contact
-
-For more information, feel free to reach out:
-
-- **Email**: ommishra162005@gmail.com
-- **GitHub**: [Lumi Repository]([https://github.com/ommishra16/Lumi-](https://github.com/OmMishra16/Lumi--Magic-In-Every-Touch))
-
-
----
-
 **Let’s build Lumi together and create magic in every touch!**
 
